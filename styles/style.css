@@ -222,7 +222,7 @@ ol {
 
 .content__list {
   position: relative;
-  overflow: scroll;
+  overflow-y: auto;
   block-size: 298px;
 }
 
